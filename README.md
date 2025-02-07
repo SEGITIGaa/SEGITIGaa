@@ -1,47 +1,38 @@
-Sure! Here's a template for a profile README for AimanFadillah:
+# Hi there, I'm Ilyas Juanda Raya 👋
 
-markdown
-# Hi there, I'm AimanFadillah 👋
+Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves building modern, fast, and scalable web applications.
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for technology and continuous learning. Below you can find a little more about me and my work.
+## 🚀 About Me
 
-## About Me
+- 💻 **Frontend Enthusiast:** Experienced in building **dynamic** and **high-performance** web applications.
+- ⚡ **React & Next.js Developer:** Skilled in SSR, SSG, App Router, and API integrations.
+- 🎨 **UI/UX Focused:** Love crafting **clean, accessible, and user-friendly interfaces**.
+- 📖 **Lifelong Learner:** Always exploring new web technologies & best practices.
 
-- 💻 **Developer:** I'm skilled in various programming languages and frameworks, always eager to take on new challenges.
-- 🎓 **Lifelong Learner:** I believe in continuous improvement and always strive to learn new skills and technologies.
-- 🌍 **Community Enthusiast:** I enjoy contributing to open-source projects and collaborating with other developers.
+## 🛠 My Tech Stack
 
-## My Skills
+- **Frontend:** React.js, Next.js  
+- **Styling:** Tailwind CSS, ShadCN
+- **Tools:** Git, Vercel, Figma, Httpie
 
-- **Languages:** Python, JavaScript, C++, Java
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, AWS
-- **Databases:** MySQL, PostgreSQL, MongoDB
+## 📌 Projects
 
-## Projects
+Check out some of my projects:
 
-Here are some of the projects I've worked on:
+- [**Awesome Project**](https://github.com/SEGITIGaa/project-name)  
+  🚀 A Next.js-based web app with SSR & Tailwind CSS.
+- [**Another Cool Project**](https://github.com/SEGITIGaa/another-project)  
+  🔥 React app with dynamic API data fetching.
 
-- [**Project Name:**](https://github.com/AimanFadillah/project-name)
-  - Description: A brief description of what the project does and the technologies used.
-- [**Another Project:**](https://github.com/AimanFadillah/another-project)
-  - Description: A brief description of what the project does and the technologies used.
+## 📫 Get in Touch
 
-## Get in Touch
+- 💼 **LinkedIn:** [Ilyas Juanda](https://www.linkedin.com/in/ilyasjuanda/)  
+- 📧 **Email:** [ilyas@example.com](mailto:ilyasjura0@gmail.com)  
 
-- 📫 **Email:** [aiman@example.com](mailto:aiman@example.com)
-- 💼 **LinkedIn:** [AimanFadillah](https://www.linkedin.com/in/aimanfadillah/)
-- 🌐 **Website:** [aimanfadillah.com](https://aimanfadillah.com)
+## 📊 GitHub Stats
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
+![Ilyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEGITIGaa&show_icons=true&theme=radical)
 
-## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEGITIGaa&layout=compact&theme=radical)
 
-![AimanFadillah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AimanFadillah&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimanFadillah&layout=compact&theme=radical)
-
-Thank you for visiting my profile! Have a great day! 😊
-
-
-Feel free to customize it further with more details or specific projects you want to showcase. This README gives a good overview of who you are, your skills, and how to get in touch with you.
+---
